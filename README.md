@@ -1,6 +1,6 @@
 # Projet AlgoBox TP3
 
-Ce projet contient tous les exercices du TP3 réalisés avec AlgoBox.
+Ce projet contient t'exercice du TP3 réalisés avec AlgoBox.
 
 ## Comment l’utiliser
 1. Cloner le projet :
